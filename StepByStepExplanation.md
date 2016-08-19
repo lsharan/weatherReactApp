@@ -1,7 +1,4 @@
 References:
-This app is built by referning the tutorial "http://joanmira.com/tutorial-build-a-weather-app-with-react/".
-I have again specified the steps for a quick reference.
-
 Step 1:
 create a weatherApp folder
 
